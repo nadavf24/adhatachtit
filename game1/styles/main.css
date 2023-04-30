@@ -1,0 +1,32 @@
+
+
+body{
+  background-image: url('../pics/images/background.png');
+  
+ 
+}
+#mainContainer .back-image{
+   position: fixed;
+  top: 0rem;
+  left: 0rem;
+}
+#mainContainer #div{
+   width: 100%;
+   margin-top: 10%;
+}
+#mainContainer .title{ 
+   text-align: center;
+   color: yellow;
+   width: 100%;
+   background: transparent;
+   font-size: 2rem;
+   font-weight: bold;
+}
+#mainContainer .label{
+  margin-top: 2rem;
+   text-align: center;
+   color: white;
+   width: 100%;
+   background: transparent;
+   font-size: 1.5rem;
+}

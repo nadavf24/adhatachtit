@@ -1,0 +1,38 @@
+#buttons1-container{
+  
+  margin-top: 1rem;
+ 
+}
+
+#buttons1-container .button1{
+  color:white;
+  text-align: center;
+  background: null;
+}
+#buttons1-container #b4{
+  color: black;
+  text-align: center;
+  background: null;
+}
+#buttons2-container .btn-containr{
+  width:20%;
+  padding-top: 2rem;
+  float: right;
+}
+#buttons2-container .button2{
+   background: transparent;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  
+   border: solid;
+   border-color: white;
+   border-radius: 50%;
+  margin-right: 20%;
+  margin-left: 20%;
+ 
+   width:3rem;
+   height: 3rem;
+}
