@@ -1,12 +1,8 @@
-
-<img src="game1/pics/images/case.png" alt="Logo" width="200" style="display: block; 
-margin-left: auto;margin-right: auto;width: 30%;"/>
-
-
-
+<p align="center">
+<img src="game1/pics/images/case.png" alt="Logo" width="200"/>
+</p>
 
 # Adhatachtit Website
----
 
 This repo is dedicated to the site i built for the game Adhatachtit.
 
